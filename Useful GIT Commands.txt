@@ -19,3 +19,6 @@ git status is read as git | status | (no destination).
 
 
 example using my repo: git clone git@github.com:RayET/git_test.git
+
+
+here's another bit 
